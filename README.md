@@ -513,12 +513,4 @@ void ITriangle.Area(int width, int height) {
 Console.WriteLine("Triangle Area : "+width*height/2);
 }
 }
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
