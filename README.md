@@ -143,4 +143,5 @@ Console.WriteLine("부모의 메소드");
 Console.WriteLine("variable ={0}", variable);
 }
 }
+..
 .
