@@ -125,6 +125,22 @@ DerivedClass obj = new DerivedClass();
 obj.Output();
 }
 }
+class Program
+{
+static void Main(string[] args)
+{
+Employee employee=null;
+employee = new Manager(); // upcasting
+Console.WriteLine(employee.GetType().ToString());
+employee.Work();
+// employee.Manage(); // can't access Manage()
+Manager manager = (Manager)employee; // downcasting
+manager.Manage(); // can access Manage()
+Console.ReadKey();
+}
+}
+}
+
 .
 .
 .
