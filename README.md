@@ -97,3 +97,26 @@ Console.WriteLine("a={0}, b={1}, c={2}", obj2.a, obj2.b, obj2.c);
 .
 .
 .
+using System;
+class BaseClass {
+public void MethodA() {
+Console.WriteLine("In BaseClass ...");
+}
+}
+class DerivedClass : BaseClass {
+new public void MethodA() { // Overriding(재정의) : 시그니처가 동일
+Console.WriteLine("In DerivedClass ... Overriding !!!");
+}
+public void MethodA(int i) { // Overloading(중복) : 시그니처가 다름
+Console.WriteLine("In DerivedClass ... Overloading !!!");
+}
+}
+class OverridingAndOverloadingApp {
+public static void Main() {
+BaseClass obj1 = new BaseClass();
+DerivedClass obj2 = new DerivedClass();
+obj1.MethodA();
+obj2.MethodA(); // 인자 없는 호출
+obj2.MethodA(1); // 인자 있는 호출
+}
+}
