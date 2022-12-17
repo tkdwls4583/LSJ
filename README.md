@@ -253,3 +253,4 @@ DerivedClass obj = new DerivedClass();
 obj.MethodA(); // DerivedClass의 methodA()호출
 }
 }
+.
