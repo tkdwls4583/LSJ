@@ -360,6 +360,23 @@ else Console.WriteLine("casting down is not valid.");
 .
 .
 .
+using System;
+class CLanguage {
+virtual public void Print() {
+Console.WriteLine("In the Clanguage class ...");
+}
+}
+class Java : CLanguage {
+override public void Print() {
+Console.WriteLine("In the Java class ...");
+}
+}
+class VirtualAndOverrideApp {
+public static void Main() {
+CLanguage c = new Java(); // base class 참조 = derived class 객체(상향 캐스팅)
+c.Print();
+}
+}
 
 .
 .
