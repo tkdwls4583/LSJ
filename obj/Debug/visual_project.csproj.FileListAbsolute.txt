@@ -1,0 +1,253 @@
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\visual_project.exe.config
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\visual_project.exe
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\visual_project.pdb
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\Google.Protobuf.dll
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\MySql.Data.dll
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\System.Buffers.dll
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\System.Memory.dll
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\ZstdNet.dll
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\Google.Protobuf.pdb
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\Google.Protobuf.xml
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\MySql.Data.xml
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\System.Buffers.xml
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\System.Memory.xml
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.csproj.AssemblyReference.cache
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.Main.resources
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.Menu_delete_popup.resources
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.Menu_insert_popup.resources
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.Menu_modify_popup.resources
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.Menu_receipt_popup.resources
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.Menu_refund_popup.resources
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.Order.resources
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.Properties.Resources.resources
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.cash.resources
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.Sales.resources
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.csproj.GenerateResource.cache
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.csproj.CoreCompileInputs.cache
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.csproj.CopyComplete
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.exe
+C:\Users\candy\Source\Repos\visual_project_4\visual_project\obj\Debug\visual_project.pdb
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.csproj.AssemblyReference.cache
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.Main.resources
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.Menu_delete_popup.resources
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.Menu_insert_popup.resources
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.Menu_modify_popup.resources
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.Menu_receipt_popup.resources
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.Menu_refund_popup.resources
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.Order.resources
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.Properties.Resources.resources
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.cash.resources
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.Sales.resources
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.csproj.GenerateResource.cache
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.csproj.CoreCompileInputs.cache
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.exe
+C:\Users\candy\OneDrive\바탕 화면\visual_project_4\visual_project\obj\Debug\visual_project.pdb
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.csproj.AssemblyReference.cache
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.Main.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.Menu_delete_popup.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.Menu_insert_popup.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.Menu_modify_popup.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.Menu_receipt_popup.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.Menu_refund_popup.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.Order.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.Properties.Resources.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.cash.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.Sales.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.csproj.GenerateResource.cache
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.csproj.CoreCompileInputs.cache
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.exe
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.pdb
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.PosProgramStart.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.Membership.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.Member_management1.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.Member_management2.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.modify_popup.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.Menu_Refundreceipt_popup.resources
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\visual_project.exe.config
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\visual_project.exe
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\visual_project.pdb
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\Google.Protobuf.dll
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\MySql.Data.dll
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\System.Buffers.dll
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\System.Memory.dll
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\ZstdNet.dll
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\Google.Protobuf.pdb
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\Google.Protobuf.xml
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\MySql.Data.xml
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\System.Buffers.xml
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\System.Memory.xml
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\candy\OneDrive\바탕 화면\It's me\2학년\비주얼프로그래밍\4조\visual_project_4\visual_project\obj\Debug\visual_project.csproj.CopyComplete
+D:\visual_project_4\visual_project\bin\Debug\visual_project.exe.config
+D:\visual_project_4\visual_project\bin\Debug\visual_project.exe
+D:\visual_project_4\visual_project\bin\Debug\visual_project.pdb
+D:\visual_project_4\visual_project\bin\Debug\BouncyCastle.Crypto.dll
+D:\visual_project_4\visual_project\bin\Debug\Google.Protobuf.dll
+D:\visual_project_4\visual_project\bin\Debug\K4os.Compression.LZ4.dll
+D:\visual_project_4\visual_project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\visual_project_4\visual_project\bin\Debug\K4os.Hash.xxHash.dll
+D:\visual_project_4\visual_project\bin\Debug\MySql.Data.dll
+D:\visual_project_4\visual_project\bin\Debug\System.Buffers.dll
+D:\visual_project_4\visual_project\bin\Debug\System.Memory.dll
+D:\visual_project_4\visual_project\bin\Debug\System.Numerics.Vectors.dll
+D:\visual_project_4\visual_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\visual_project_4\visual_project\bin\Debug\ZstdNet.dll
+D:\visual_project_4\visual_project\bin\Debug\BouncyCastle.Crypto.xml
+D:\visual_project_4\visual_project\bin\Debug\Google.Protobuf.pdb
+D:\visual_project_4\visual_project\bin\Debug\Google.Protobuf.xml
+D:\visual_project_4\visual_project\bin\Debug\K4os.Compression.LZ4.xml
+D:\visual_project_4\visual_project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\visual_project_4\visual_project\bin\Debug\K4os.Hash.xxHash.xml
+D:\visual_project_4\visual_project\bin\Debug\MySql.Data.xml
+D:\visual_project_4\visual_project\bin\Debug\System.Buffers.xml
+D:\visual_project_4\visual_project\bin\Debug\System.Memory.xml
+D:\visual_project_4\visual_project\bin\Debug\System.Numerics.Vectors.xml
+D:\visual_project_4\visual_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\visual_project_4\visual_project\obj\Debug\visual_project.csproj.AssemblyReference.cache
+D:\visual_project_4\visual_project\obj\Debug\visual_project.csproj.SuggestedBindingRedirects.cache
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Main.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Membership.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Member_management1.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Member_management2.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Menu_delete_popup.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Menu_insert_popup.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.modify_popup.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Menu_modify_popup.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Menu_receipt_popup.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Menu_refund_popup.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Order.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.PosProgramStart.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Properties.Resources.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.cash.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Sales.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.csproj.GenerateResource.cache
+D:\visual_project_4\visual_project\obj\Debug\visual_project.csproj.CoreCompileInputs.cache
+D:\visual_project_4\visual_project\obj\Debug\visual_project.csproj.CopyComplete
+D:\visual_project_4\visual_project\obj\Debug\visual_project.exe
+D:\visual_project_4\visual_project\obj\Debug\visual_project.pdb
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Lodings_popup.resources
+D:\visual_project_4\visual_project\obj\Debug\visual_project.Member_management3.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\visual_project.exe.config
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\visual_project.exe
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\visual_project.pdb
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\Google.Protobuf.dll
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\MySql.Data.dll
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\System.Buffers.dll
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\System.Memory.dll
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\ZstdNet.dll
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\Google.Protobuf.pdb
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\Google.Protobuf.xml
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\MySql.Data.xml
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\System.Buffers.xml
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\System.Memory.xml
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\상진이\Desktop\비주얼13\visual_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.csproj.AssemblyReference.cache
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Lodings_popup.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Main.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Membership.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Member_management1.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Member_management2.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Member_management3.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Menu_delete_popup.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Menu_insert_popup.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.modify_popup.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Menu_modify_popup.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Menu_receipt_popup.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Menu_refund_popup.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Order.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.PosProgramStart.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Properties.Resources.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.cash.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.Sales.resources
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.csproj.GenerateResource.cache
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.csproj.CoreCompileInputs.cache
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.csproj.CopyComplete
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.exe
+C:\Users\상진이\Desktop\비주얼13\visual_project\obj\Debug\visual_project.pdb
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\visual_project.exe.config
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\visual_project.exe
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\visual_project.pdb
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\Google.Protobuf.dll
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\MySql.Data.dll
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\System.Buffers.dll
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\System.Memory.dll
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\ZstdNet.dll
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\Google.Protobuf.pdb
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\Google.Protobuf.xml
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\MySql.Data.xml
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\System.Buffers.xml
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\System.Memory.xml
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\상진이\Desktop\비주얼최종\visual_project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.csproj.AssemblyReference.cache
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Lodings_popup.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Main.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Membership.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Member_management1.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Member_management2.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Member_management3.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Menu_delete_popup.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Menu_insert_popup.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.modify_popup.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Menu_modify_popup.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Menu_receipt_popup.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Menu_refund_popup.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Order.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.PosProgramStart.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Properties.Resources.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.cash.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.Sales.resources
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.csproj.GenerateResource.cache
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.csproj.CoreCompileInputs.cache
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.csproj.CopyComplete
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.exe
+C:\Users\상진이\Desktop\비주얼최종\visual_project\obj\Debug\visual_project.pdb
