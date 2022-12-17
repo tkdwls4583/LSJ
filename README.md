@@ -67,13 +67,9 @@ s.MethodA(); // s 객체의 MathodA()가 호출 (new로 재정의 경우)
 s.MethodB(); // s가 가리키는 객체(파생클래스)의 MethodB()가 호출 (다형성)(override로 재정의)
 s.MethodC(); // s 객체의 MathodC()가 호출
 }
-}.
-.
-.
-.
-.
-.
-.
+}
+
+
 using System;
 class BaseClass
 {
@@ -101,10 +97,6 @@ obj.MethodA(); // DerivedClass의 methodA()호출
 }
 }
 
-.
-.
-.
-.
 using System;
 class BaseClass {
 protected int a = 1;
@@ -141,16 +133,7 @@ Console.ReadKey();
 }
 }
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
 using System;
 class BaseClass {
 public int a, b;
@@ -178,16 +161,6 @@ Console.WriteLine("a={0}, b={1}, c={2}", obj1.a, obj1.b, obj1.c);
 Console.WriteLine("a={0}, b={1}, c={2}", obj2.a, obj2.b, obj2.c);
 }
 }
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
 
 using System;
 class BaseClass {
@@ -261,13 +234,7 @@ Console.WriteLine("부모의 메소드");
 Console.WriteLine("variable ={0}", variable);
 }
 }
-..
-.
-.
-.
-.
-..
-.
+
 class Child : Parent
 {
 // public override string variable = "overriding"; // 오류 : override 사용 불가
@@ -316,13 +283,8 @@ DerivedClass obj2 = new DerivedClass();
 Print(obj1);
 Print(obj2);
 }
-}.
-.
-.
-.
-.
-.
-.
+}
+
 using System;
 class BaseClass {
 public void MethodA() {
@@ -341,14 +303,7 @@ DerivedClass obj = new DerivedClass();
 obj.MethodA(); // DerivedClass의 methodA()호출
 }
 }
-.
-.
-.
-.
-.
-.
-.
-.
+
 using System;
 class CLanguage {
 public bool Equal(object obj) {
@@ -371,12 +326,7 @@ if (cs.Equal(c)) Console.WriteLine("casting down is valid.");
 else Console.WriteLine("casting down is not valid.");
 }
 }
-
-.
-.
-.
-.
-using System;
+ng System;
 class CLanguage {
 virtual public void Print() {
 Console.WriteLine("In the Clanguage class ...");
