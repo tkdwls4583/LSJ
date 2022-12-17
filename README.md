@@ -387,6 +387,29 @@ c.Print();
 .
 .
 .
+
+using System;
+namespace polymorphism_1
+{
+class Employee
+{
+public virtual void Work()
+{
+Console.WriteLine("I am an employere.");
+}
+}
+class Manager : Employee
+{
+public override void Work()
+{
+Console.WriteLine("I am a manager.");
+}
+public void Manage()
+{
+Console.WriteLine("Managing ....");
+}
+}
+
 .
 .
 .
