@@ -212,15 +212,7 @@ obj2.MethodA(); // 인자 없는 호출
 obj2.MethodA(1); // 인자 있는 호출
 }
 }
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
 using System;
 namespace overriding_console_1
 {
@@ -255,11 +247,6 @@ child.Method();
 }
 }
 override
-..
-.
-.
-.
-.
 
 
 using System;
@@ -344,15 +331,6 @@ c.Print();
 }
 }
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
 
 using System;
 namespace polymorphism_1
@@ -376,19 +354,7 @@ Console.WriteLine("Managing ....");
 }
 }
 
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
 using System;
 public interface IControl
 {
@@ -406,14 +372,7 @@ public void Paint()
 Console.WriteLine("Paint method in SampleClass");
 }
 }
-.
-.
-.
-.
-.
-.
-.
-.
+
 using System;
 public interface IControl
 {
@@ -434,20 +393,7 @@ void ISurface.Paint()
 System.Console.WriteLine("ISurface.Paint");
 }
 }
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
+
 using System;
 interface IRectangle {
 void Area(int width, int height);
