@@ -1,5 +1,25 @@
 # LSJ.
 using System;
+abstract class AbstractClass {
+public abstract void MethodA(); // virtual 수정자 의미 포함
+public void MethodB() {
+Console.WriteLine("Implementation of MethodB()");
+}
+}
+class ImpClass : AbstractClass {
+override public void MethodA () { // 추상 메소드 구현
+Console.WriteLine("Implementation of MethodA()");
+}
+}
+class AbstractClassApp {
+public static void Main() {
+ImpClass obj = new ImpClass();
+obj.MethodA();
+obj.MethodB();
+}
+}
+
+using System;
 class BaseClass {
 public BaseClass() {
 Console.WriteLine("BaseClass Constructor ...");
