@@ -26,6 +26,7 @@ Console.WriteLine("in main ...");
 .
 .
 .
+.
 using System;
 class BaseClass {
 protected int a = 1;
