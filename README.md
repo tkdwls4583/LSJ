@@ -74,6 +74,33 @@ s.MethodC(); // s 객체의 MathodC()가 호출
 .
 .
 .
+using System;
+class BaseClass
+{
+virtual public void MethodA()
+// public void MethodA()
+{
+Console.WriteLine("do BaseClass Task.");
+}
+}
+class DerivedClass : BaseClass
+{
+// new public void MethodA()
+override public void MethodA()
+{
+base.MethodA(); // 부모 클래스의 Method A()호출
+Console.WriteLine("do DerivedClass Task.");
+}
+}
+class AddendumApp
+{
+public static void Main()
+{
+DerivedClass obj = new DerivedClass(); // up casting 이 아님
+obj.MethodA(); // DerivedClass의 methodA()호출
+}
+}
+
 .
 .
 .
