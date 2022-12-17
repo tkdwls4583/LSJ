@@ -130,3 +130,16 @@ obj2.MethodA(1); // 인자 있는 호출
 .
 .
 .
+using System;
+namespace overriding_console_1
+{
+class Parent
+{
+// public virtual int variable = 273; // // 오류 : override 사용 불가
+public int variable = 273;
+public virtual void Method()
+{
+Console.WriteLine("부모의 메소드");
+Console.WriteLine("variable ={0}", variable);
+}
+}
